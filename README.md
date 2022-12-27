@@ -1,6 +1,8 @@
 # Delivery Routes
 
-This program is used to calculate delivery routes given an origin (the materials depot from which all delivery trucks will leave), the number and types of trucks, and destinations. I wrote this for Herndon, VA's Troop 913 annual mulch fundraiser where we typically must deliver 6,000+ bags of mulch in a single (crazy) day.
+This program is used to calculate delivery routes given an origin (the materials depot from which all delivery trucks will leave), the number and types of trucks, and destinations. **Forked from Herndon, VA's Troop 913 annual mulch fundraiser**
+
+Revamped for Troop 589
 
 ## Requirements
 
